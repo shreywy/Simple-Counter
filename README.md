@@ -1,6 +1,9 @@
 
 # What is this?
 A project made to learn Javascript!
+
+[Click here to try it out!](https://6467f9f3e49d3225466a4ac8--scintillating-maamoul-bab62c.netlify.app)
+
 Learnt alongside a Scrimba Course as seen below:
 
 ## About Scrimba
